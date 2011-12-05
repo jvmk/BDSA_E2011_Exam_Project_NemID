@@ -9,6 +9,7 @@ namespace GitTestProject
     {
         static void Main(string[] args)
         {
+            // some change
         }
     }
 }
